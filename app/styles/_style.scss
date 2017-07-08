@@ -1,0 +1,27 @@
+html {
+   font-size: 16px;
+ }
+
+ body {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+body {
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #292b2c;
+    background-color: #fff;
+}
+ .row {
+     margin-bottom: 1rem;
+ }
+
+[class*="col-"] {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: rgba(86,61,124,.15);
+    border: 1px solid rgba(86,61,124,.2);
+}
